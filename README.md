@@ -1,6 +1,7 @@
 # lmwilliams936.github.io
-LaDarion Williams lmwilliams27@my.waketech.edu 
-my github account is lmwilliams936
-My repository is lmwilliams936.github.io
-to clone it on my desktop i Clicked on "Clone repository." and then chose the folder to place it in 
+<p> i am LaDarion Williams</p> 
+<p>my email is lmwilliams27@my.waketech.edu</p>
+<p>my github account is lmwilliams936</p>
+<p>My repository is lmwilliams936.github.io</p>
+<p>to clone it on my desktop i Clicked on "Clone repository." and then chose the folder to place it in</p>
 
